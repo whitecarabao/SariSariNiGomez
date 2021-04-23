@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Apr 24 03:42:26 SGT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0179-0041-3e89-000009287fc8 
+on database directory C:\Users\Daryll Gomez\IdeaProjects\SariSariNiGomez\out\artifacts\eSARI_GOMEZ\eSariDatabaseSystem with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/Daryll%20Gomez/IdeaProjects/SariSariNiGomez/out/artifacts/eSARI_GOMEZ/SariSariNiGomez.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\Daryll Gomez\IdeaProjects\SariSariNiGomez\out\artifacts\eSARI_GOMEZ
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
